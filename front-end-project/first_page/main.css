@@ -1,0 +1,55 @@
+header {
+	border: 1px double black ;
+	
+	}
+
+header > p {  
+	color: #a60010;
+	font-style: sans-serif;
+	text-align: center;
+	}
+
+	nav {	 
+    margin: 0.5% 80% 1% 0 ; /* Отступы  */
+     padding: 5% 0 5% 0;
+		border: 1px double black 
+
+	}
+
+	nav > ul {
+		color: #0200a8;
+	font-style: sans-serif
+
+	}
+
+	article{
+		 padding: 1.5% 0 2% 0;
+		margin: -19.75% 0 0 20.5% ; /* Отступы  */
+		border: 1px double black 
+
+	}
+
+	article > p {
+		color: #00a710;
+	font-style: verdana;
+	text-align: center;
+    
+	}
+	article > p > a{
+	text-align: left;
+	text-decoration: none; /* Отменяем подчеркивание у ссылки */
+	color: #b0001a;
+    }
+	footer {
+		 background: #00ed9c; /* Цвет фона */
+		margin: 0.5% 0 0 0 ; /* Отступы  */
+		border: 1px double black 
+	
+	}
+
+footer > p{
+ color:#b400a2;
+  margin-top: 1%;
+  text-align: center;
+
+}
