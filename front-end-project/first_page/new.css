@@ -5,33 +5,48 @@ body {
 	-o-background-size: cover;
 	background-size: cover;
 	}
+
+div {
+     
+     margin: 200px 0 0 0;
+     background: center;
+}
+
+ @font-face {
+    font-family: 'Champignon'; /* Гарнитура шрифта */
+    src: url("http://webfonts.ru/import/champignon.css");/* Путь к файлу со шрифтом */
+}
+
 p {
-    margin: 2%;
-    color: #00d417;
+
+    font-family:  'Champignon';
+    color: #777777 ;
     text-align: center;
     font-size: 250%;
-    font-family: Helvetica;
+    font-family: commercialscript bt;
     }	
 
 .css_background {
     margin: 2%;
-    color: #0a061a;
+    color: #333333;
     text-align: center;
     font-size: 125%;
-    font-family: verdana;
+    font-weight: bold;
+    font-family: scripts ;
     }
 
 button {
-    background: #007E3E; /* Цвет фона */
-    color: #12087a; /* Цвет текста */
+    font-weight: bold;
+    background:  #191970; /* Цвет фона */
+    color: #FF6347; /* Цвет текста */
     padding: 10px 20px 10px 20px; /* Поля вокруг текста */
     border-radius: 50px; /* Уголки */
     border-bottom-style: double;
-    border: 2px solid #bc0109;
+    border: 2px solid #999999;
    } 
 
  button:hover {
-    background: #b80959; /* Цвет фона под ссылкой */
-    color: #fff;
-    border: 2px solid #00d654; 
+    background: #222222; /* Цвет фона под ссылкой */
+    color:  #D3D3D3;
+    border: 2px solid #999999; 
    }
