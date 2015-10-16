@@ -1,0 +1,44 @@
+﻿ 
+#text{
+	
+	
+	text-align: center;
+	color: #ddff00;
+	width: 100%; 
+    background: #bf0102;
+    border: solid 1px #00f408; 
+    float: center;
+
+  
+   
+	}
+
+
+#text2{
+	
+	text-align: center;
+	color: #dd00cc;
+	width: 100%; 
+    background: #0021d1;
+    border: solid 1px red; 
+    float: center;
+  
+	}
+
+.fhoto{
+
+	background-size: 10px 200px;
+}
+#text3{
+	
+	text-align: center;
+	color: #ff0f08;
+	width: 100%; 
+    background: #02ff09;
+    border: solid 1px red; 
+    float: center;
+  
+  
+   
+	}
+

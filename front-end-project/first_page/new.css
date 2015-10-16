@@ -1,0 +1,52 @@
+body { 
+	background: url(http://images.forwallpaper.com/files/thumbs/preview/81/816936__desktop-mac-wallpaper-apple-backgrounds_p.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	}
+
+div {
+     
+     margin: 200px 0 0 0;
+     background: center;
+}
+
+ @font-face {
+    font-family: 'Champignon'; /* Гарнитура шрифта */
+    src: url("http://webfonts.ru/import/champignon.css");/* Путь к файлу со шрифтом */
+}
+
+p {
+
+    font-family:  'Champignon';
+    color: #777777 ;
+    text-align: center;
+    font-size: 250%;
+    font-family: commercialscript bt;
+    }	
+
+.css_background {
+    margin: 2%;
+    color: #333333;
+    text-align: center;
+    font-size: 125%;
+    font-weight: bold;
+    font-family: scripts ;
+    }
+
+button {
+    font-weight: bold;
+    background:  #191970; /* Цвет фона */
+    color: #FF6347; /* Цвет текста */
+    padding: 10px 20px 10px 20px; /* Поля вокруг текста */
+    border-radius: 50px; /* Уголки */
+    border-bottom-style: double;
+    border: 2px solid #999999;
+   } 
+
+ button:hover {
+    background: #222222; /* Цвет фона под ссылкой */
+    color:  #D3D3D3;
+    border: 2px solid #999999; 
+   }
